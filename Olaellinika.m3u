@@ -64,3 +64,10 @@ http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/4743
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OTE SPORT 2
 http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4742
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 1HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/14391
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 2HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17508
