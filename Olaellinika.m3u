@@ -59,6 +59,9 @@ http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4740
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Cosmote Sports 5
 http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4739
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Cosmote Sports 6
+http://ok2.se:8000/qMHP9BNqow/7m7vwC7roc/4738
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OTE SPORT 1
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/4743
 
@@ -67,7 +70,6 @@ http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4742
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 1HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/14391
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 2HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17508
